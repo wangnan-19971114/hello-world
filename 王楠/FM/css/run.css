@@ -1,0 +1,37 @@
+body{
+    margin:0;padding:0
+}
+.run_body{
+    width:720px;height:1215px;background:#1c1922;padding-top:65px;
+}
+.fm_top{
+    height:115px;width:650px;background:#1c1922;padding:0 35px
+}
+.fm_return{
+    height:40px;width:40px;margin-top:20px;float:left;
+}
+.fm_nav{
+    width:225px;height:75px;background:#1c1922;display: flex;margin:0 auto;justify-content: space-between
+}
+.fm_menu{
+    float:right;margin-top:-50px;
+}
+.fm_banner{
+    width:630px;height:630px;margin:0 auto;
+}
+.fm_size{
+    width:100%;height:100px;background:#1c1922;margin-top:75px;text-align: center;
+}
+.fm_size h2{
+    color:#ffffff
+}
+.fm_size p{
+    color:#a8a7ae;
+}
+.fm_div{
+    height:150px;width:300px;
+}
+.fm_button{
+    display: block;width:315px;height:70px;background:#1c1922;margin:0 auto;font-size:24px;text-align:center;
+    line-height: 70px;border-radius: 45px;color:#bebec0;border:2px solid #bebec0
+}

@@ -1,0 +1,145 @@
+*{
+    margin:0;padding:0
+}
+a{
+    text-decoration: none;
+}
+body{
+    height:2000px;
+}
+.iconfont{
+    font-family:"iconfont" !important;
+    font-size:16px;font-style:normal;
+    /*-webkit-font-smoothing: antialiased;*/
+    /*-webkit-text-stroke-width: 0.2px;*/
+    /*-moz-osx-font-smoothing: grayscale;*/
+}
+.header{
+    width:720px;
+}
+.music{
+   height:50px;background:#d33a31;width:720px
+}
+.music_top{
+    height:100px;line-height: 100px;color:#e58983;padding:0 15px;width:690px;background:#d33a31;
+}
+.one{
+    font-size: 30px;float:left;color:#ffffff;
+}
+.nav{
+    height:100px;width:320px;display:flex;margin:0 auto;justify-content: space-between;
+}
+.two{
+    font-size: 30px;color:#ffffff;
+    float:right;margin-top:-100px;
+}
+.three{
+    font-size: 30px;
+}
+.music_nav{
+    height:77px;display:flex;padding:0 80px; justify-content: space-between;width:560px;
+}
+.music_nav a{
+    display:block;height:75px;width:135px;text-align: center;line-height: 75px;font-size: 26px;color:black;
+    border-bottom:2px solid #ffffff;
+}
+.music_nav a:hover{
+    border-bottom:2px solid red;
+}
+.music_banner{
+    height:280px;
+}
+.music_nav_button{
+    width:640px;height:140px;padding:30px 40px;display:flex;justify-content: space-between;border-bottom: 1px solid #dadcdd;
+}
+.music_nav_button_left{
+    width:100px;text-align: center;
+}
+.four{
+    display:block;width:95px;height:95px;font-size: 45px;border:1px solid red;line-height: 95px;text-align: center;border-radius: 95px;
+    color:red;margin-bottom: 20px;
+}
+.music_nav_button_left{
+    font-size: 20px;
+}
+.music_button{
+    width:10px;height:45px;
+}
+.recommended_song_a{
+    display: block;width:190px;height:50px;color:black;text-align: center; line-height: 50px;font-size: 26px;
+}
+.song_lists{
+    width:720px;
+}
+.song_list{
+    width:237px;height:327px;margin:0 1px;float:left;
+}
+.song_img img{
+    width:235px;height:235px;
+}
+.song_img p{
+    font-size:16px;
+}
+.mv_lists{
+    width:720px;margin-top:20px;
+}
+.mv_list{
+    width:350px;height:290px;float:left;margin:50px 8px  0 0;
+}
+.mv_img,.mv_list img{
+    width:350px;height:200px;
+}
+.recommended_mv_a{
+    display: block;width:190px;height:50px;color:black;text-align: center; line-height: 50px;font-size: 26px;
+}
+.mv_list p{
+    margin-top:20px;
+}
+.mv_list_big{
+    width:720px;
+}
+.mv_list_big .mv_img{
+    width:720px;height:370px;
+}
+.mv_list_big .mv_img img{
+    width:720px;height:280px;
+}
+.mv_list_big h3{
+    margin-top:-280px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'iconfont';  /* project id 1411849 */
+    src: url('//at.alicdn.com/t/font_1411849_z7jmsj9zd7.eot');
+    src: url('//at.alicdn.com/t/font_1411849_z7jmsj9zd7.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_1411849_z7jmsj9zd7.woff2') format('woff2'),
+    url('//at.alicdn.com/t/font_1411849_z7jmsj9zd7.woff') format('woff'),
+    url('//at.alicdn.com/t/font_1411849_z7jmsj9zd7.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_1411849_z7jmsj9zd7.svg#iconfont') format('svg');
+}
